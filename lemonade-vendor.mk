@@ -201,7 +201,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/f_japan_strong.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/f_japan_strong.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/farewell-V7.CUBE.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/farewell-V7.CUBE.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/fuji-eterna-v2.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/fuji-eterna-v2.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/fuji-nc.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/fuji-nc.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/fuji-proNegHi.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/fuji-proNegHi.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/fuji.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/fuji.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/fuji_cc.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/fuji_cc.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gourmet.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gourmet.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-beach.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-beach.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-earth.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-earth.cube.rgb.bin \
