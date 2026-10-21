@@ -1786,5 +1786,29 @@
   "Type": "Byte",
   "Count": "1",
   "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.support.grand.tour.filter",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.flash.filter.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.tx400.filter.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.support.jzk.movie.filter",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
 }
 ]

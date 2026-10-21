@@ -152,6 +152,18 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/Emerald.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/Emerald.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/EyxRbD2UCe:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/EyxRbD2UCe \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/FaceappGrayscale.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/FaceappGrayscale.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-24hour-city.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-24hour-city.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-3dcity.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-3dcity.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-after-glow.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-after-glow.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-azure-water.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-azure-water.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-blue-water.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-blue-water.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-coco-grove.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-coco-grove.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-crisp-fall.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-crisp-fall.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-desert.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-desert.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-mountainous.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-mountainous.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-old-times.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-old-times.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-quietly-ele.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-quietly-ele.cube.rgb.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/gt-steaming.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/gt-steaming.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/InsClarendon.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/InsClarendon.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/InsJuno.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/InsJuno.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/filters_lut/InsValencia-2.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_lut/InsValencia-2.cube.rgb.bin \
@@ -302,7 +314,20 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/gesture/tt_hand_gesture_v11.1.model:$(TARGET_COPY_OUT_ODM)/etc/camera/gesture/tt_hand_gesture_v11.1.model \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/gesture/tt_hand_kp_v6.0.model:$(TARGET_COPY_OUT_ODM)/etc/camera/gesture/tt_hand_kp_v6.0.model \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/gesture/tt_hand_lr_v3.0.model:$(TARGET_COPY_OUT_ODM)/etc/camera/gesture/tt_hand_lr_v3.0.model \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_master.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_0.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_0.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_1.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_1.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_0.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_0.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_1.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_1.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_master.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_master.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_normal.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_normal.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_sdr.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_sdr.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_sdr_0.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_sdr_0.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/blackandwhite_HC_sdr_1.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/blackandwhite_HC_sdr_1.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/ByYo3If:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/ByYo3If \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/ccd_base_cold.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/ccd_base_cold.bin \
+    vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/ccd_base_warm.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/ccd_base_warm.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/Cold.cube.rgb.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/Cold.cube.rgb.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/DL_A_MoneyBall.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/DL_A_MoneyBall.bin \
     vendor/oneplus/lemonade/proprietary/odm/etc/camera/meishe_lut/DL_B_Inception.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/meishe_lut/DL_B_Inception.bin \
