@@ -1810,11 +1810,5 @@
   "Type": "Byte",
   "Count": "1",
   "Value": "1"
-},
-{
-  "VendorTag": "com.oplus.photo.10bit.format",
-  "Type": "Byte",
-  "Count": "1",
-  "Value": "35"
 }
 ]
